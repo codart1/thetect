@@ -1,0 +1,1899 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-02-19 22:26+0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: 404.php:3
+msgid "Sorry, but nothing exists here."
+msgstr ""
+
+#: 404.php:10
+msgid "Try some searching or"
+msgstr ""
+
+#: 404.php:10
+msgid "Go back Home."
+msgstr ""
+
+#: archive.php:15 archive.php:43
+msgid "Tag"
+msgstr ""
+
+#: archive.php:15 archive.php:43 inc/minimaldog-theme-option.php:917
+msgid "Archive"
+msgstr ""
+
+#: author.php:50 author.php:184
+msgid "Latest posts"
+msgstr ""
+
+#: author.php:53 author.php:187
+msgid "Favorite posts"
+msgstr ""
+
+#: author.php:69 author.php:203
+msgid "There's no post yet"
+msgstr ""
+
+#: author.php:81 author.php:119 author.php:216 author.php:252
+#: functions.php:1524
+msgid "Previous"
+msgstr ""
+
+#: author.php:82 author.php:120 author.php:217 author.php:253
+#: functions.php:1525
+msgid "Next"
+msgstr ""
+
+#: author.php:130 author.php:263
+msgid "You haven't liked any posts yet"
+msgstr ""
+
+#: category.php:13 category.php:41 inc/minimaldog-theme-option.php:1063
+msgid "Category"
+msgstr ""
+
+#: comments.php:24
+#, php-format
+msgctxt "comments title"
+msgid "There is 1 comment"
+msgid_plural "There are %1$s comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:27
+#, php-format
+msgctxt "comments title"
+msgid "1 comment"
+msgid_plural "%1$s comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:48
+msgid "There are no comments yet"
+msgstr ""
+
+#: comments.php:51
+msgid "No comments"
+msgstr ""
+
+#: comments.php:61
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:85
+msgid "Back to top"
+msgstr ""
+
+#: footer.php:97
+msgid "Close"
+msgstr ""
+
+#: footer.php:111 templates/header-compact.php:44
+#: templates/header-compact.php:99 templates/header-standard-center.php:71
+#: templates/header-standard-center.php:101 templates/header-standard.php:84
+#: templates/header-standard.php:114
+msgid "Set up main navigation"
+msgstr ""
+
+#: footer.php:133
+msgid "Register"
+msgstr ""
+
+#: footer.php:134
+msgid "Lost Password"
+msgstr ""
+
+#: footer.php:134
+msgid "Forgot Password ?"
+msgstr ""
+
+#: functions.php:35
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:36
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:147 inc/minimaldog-post-like.php:165
+#: inc/minimaldog-post-like.php:177 inc/minimaldog-post-like.php:196
+#: inc/minimaldog-post-like.php:208 inc/minimaldog-post-like.php:215
+msgid "Like"
+msgstr ""
+
+#: functions.php:148 inc/minimaldog-post-like.php:167
+#: inc/minimaldog-post-like.php:230
+msgid "like"
+msgstr ""
+
+#: functions.php:149 inc/minimaldog-post-like.php:169
+#: inc/minimaldog-post-like.php:232
+msgid "likes"
+msgstr ""
+
+#: functions.php:150 inc/minimaldog-post-like.php:173
+#: inc/minimaldog-post-like.php:192 inc/minimaldog-post-like.php:211
+msgid "Unlike"
+msgstr ""
+
+#: functions.php:165
+msgid "Error loading posts"
+msgstr ""
+
+#: functions.php:166
+msgid "Loading posts"
+msgstr ""
+
+#: functions.php:167
+msgid "No more posts"
+msgstr ""
+
+#: functions.php:293
+msgid "Home Sidebar"
+msgstr ""
+
+#: functions.php:294
+msgid "Appears on Front Page"
+msgstr ""
+
+#: functions.php:302
+msgid "Single Sidebar"
+msgstr ""
+
+#: functions.php:303
+msgid "Appears on single posts"
+msgstr ""
+
+#: functions.php:311
+msgid "Default Sidebar"
+msgstr ""
+
+#: functions.php:312
+msgid "Appears on other pages"
+msgstr ""
+
+#: functions.php:320
+msgid "Header Widget Area"
+msgstr ""
+
+#: functions.php:321
+msgid "Appears in site header"
+msgstr ""
+
+#: functions.php:329
+msgid "Ad Sidebar 1"
+msgstr ""
+
+#: functions.php:330
+msgid "Appears above home content"
+msgstr ""
+
+#: functions.php:338
+msgid "Ad Sidebar 2"
+msgstr ""
+
+#: functions.php:339
+msgid "Appears at bottom of page"
+msgstr ""
+
+#: functions.php:347
+msgid "Ad Sidebar 3"
+msgstr ""
+
+#: functions.php:348
+msgid "Appears under post content"
+msgstr ""
+
+#: functions.php:356
+msgid "Footer Sidebar 1"
+msgstr ""
+
+#: functions.php:357
+msgid "Appears under featured section of home page"
+msgstr ""
+
+#: functions.php:365
+msgid "Footer Sidebar 2"
+msgstr ""
+
+#: functions.php:366
+msgid "Appears at top of posts and pages"
+msgstr ""
+
+#: functions.php:374
+msgid "Footer Sidebar 3"
+msgstr ""
+
+#: functions.php:375
+msgid "Appears at the bottom of posts and pages"
+msgstr ""
+
+#: functions.php:1049 functions.php:1226 functions.php:1248
+msgid "comments"
+msgstr ""
+
+#: functions.php:1050 functions.php:1071 functions.php:1113 functions.php:1229
+#: functions.php:1251 templates/post-list-bg.php:42
+msgid "Comment"
+msgstr ""
+
+#: functions.php:1061 functions.php:1085 functions.php:1103
+msgid "Read more"
+msgstr ""
+
+#: functions.php:1068 functions.php:1110 templates/post-list-bg.php:39
+#, php-format
+msgid "%1$s comment"
+msgstr ""
+
+#: functions.php:1068 functions.php:1110 templates/post-list-bg.php:39
+#, php-format
+msgid "%1$s comments"
+msgstr ""
+
+#: functions.php:1068 functions.php:1110 templates/post-list-bg.php:39
+msgctxt "comments title"
+msgid "<span class=\"hidden-xs\"> "
+msgid_plural "<span class=\"hidden-xs\"> "
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:1133 functions.php:1142 functions.php:1152 functions.php:1161
+#: templates/author-box-large.php:17 templates/author-box.php:15
+#: templates/post-classic.php:13 templates/post-large.php:7
+#: templates/post-list.php:9 templates/post-split.php:7
+msgid "avatar"
+msgstr ""
+
+#: functions.php:1163
+msgid "by"
+msgstr ""
+
+#: functions.php:1218
+msgid "posted on"
+msgstr ""
+
+#: functions.php:1226 functions.php:1248
+msgid "comment"
+msgstr ""
+
+#: functions.php:1226
+#, php-format
+msgctxt "comments title"
+msgid "%1$s "
+msgid_plural "%1$s "
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:1248
+#, php-format
+msgctxt "comments title"
+msgid " %1$s<span class=\"hidden-xs\"> "
+msgid_plural " %1$s<span class=\"hidden-xs\"> "
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:1353 functions.php:1391
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: functions.php:1374
+msgid "View all posts in"
+msgstr ""
+
+#: functions.php:1388
+msgid "Tagged in"
+msgstr ""
+
+#: functions.php:1417
+msgid "Via"
+msgstr ""
+
+#: functions.php:1419 functions.php:1445
+#, php-format
+msgid "Go to %s"
+msgstr ""
+
+#: functions.php:1443
+#: lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:2433
+msgid "Source"
+msgstr ""
+
+#: functions.php:1461
+msgid "Pages:"
+msgstr ""
+
+#: functions.php:1465
+msgid "Page"
+msgstr ""
+
+#: functions.php:1486 functions.php:1489
+msgid "Load more"
+msgstr ""
+
+#: functions.php:1502
+msgid "Newer Posts"
+msgstr ""
+
+#: functions.php:1503
+msgid "Older Posts"
+msgstr ""
+
+#: functions.php:1796
+msgid "The breakdown"
+msgstr ""
+
+#: functions.php:1822 inc/widgets/minimaldog-post-review-list-widget.php:162
+msgid "Total score"
+msgstr ""
+
+#: functions.php:1831
+msgid "Good"
+msgstr ""
+
+#: functions.php:1844
+msgid "Bad"
+msgstr ""
+
+#: functions.php:1924
+msgid "Pingback:"
+msgstr ""
+
+#: functions.php:1924 functions.php:1974
+msgid "Edit"
+msgstr ""
+
+#: functions.php:1946 inc/minimaldog-theme-option.php:1001
+msgid "Author"
+msgstr ""
+
+#: functions.php:1949
+msgid " at "
+msgstr ""
+
+#: functions.php:1960
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:1967
+msgid "Reply"
+msgstr ""
+
+#: functions.php:1996
+msgid "Comment navigation"
+msgstr ""
+
+#: functions.php:1999
+msgid "Older Comments"
+msgstr ""
+
+#: functions.php:2003
+msgid "Newer Comments"
+msgstr ""
+
+#: index.php:32 index.php:60
+msgid "Latest stories"
+msgstr ""
+
+#: search.php:19 search.php:47
+msgid "Search results for"
+msgstr ""
+
+#: searchform.php:3
+msgid "Search..."
+msgstr ""
+
+#: sidebar.php:12
+msgid "Place widgets on Single Sidebar to make them appear here"
+msgstr ""
+
+#: sidebar.php:20
+msgid "Place widgets on Home Sidebar to make them appear here"
+msgstr ""
+
+#: sidebar.php:26
+msgid "Place widgets on Default Sidebar to make them appear here"
+msgstr ""
+
+#: inc/minimaldog-metabox-config.php:15
+msgid "Post format: Image"
+msgstr ""
+
+#: inc/minimaldog-metabox-config.php:22
+msgid "Choose image"
+msgstr ""
+
+#: inc/minimaldog-metabox-config.php:23
+msgid "Choose an image to be assigned to this post"
+msgstr ""
+
+#: inc/minimaldog-metabox-config.php:34
+msgid "Post format: Gallery"
+msgstr ""
+
+#: inc/minimaldog-metabox-config.php:41
+msgid "Choose gallery images"
+msgstr ""
+
+#: inc/minimaldog-metabox-config.php:42
+msgid "Choose images to be added to the gallery"
+msgstr ""
+
+#: inc/minimaldog-metabox-config.php:49
+msgid "Slider gallery options"
+msgstr ""
+
+#: inc/minimaldog-metabox-config.php:54
+msgid "Display thumbnails"
+msgstr ""
+
+#: inc/minimaldog-metabox-config.php:59
+msgid "Slider transition"
+msgstr ""
+
+#: inc/minimaldog-metabox-config.php:63
+msgid "Slide"
+msgstr ""
+
+#: inc/minimaldog-metabox-config.php:64
+msgid "Fade"
+msgstr ""
+
+#: inc/minimaldog-metabox-config.php:75
+msgid "Post format: Audio"
+msgstr ""
+
+#: inc/minimaldog-metabox-config.php:82
+msgid ""
+"Audio full URL: Soundcloud, Mixcloud, Spotify, ... See all supported site "
+msgstr ""
+
+#: inc/minimaldog-metabox-config.php:82 inc/minimaldog-metabox-config.php:117
+msgid "here"
+msgstr ""
+
+#: inc/minimaldog-metabox-config.php:87
+msgid "Or upload your own audio"
+msgstr ""
+
+#: inc/minimaldog-metabox-config.php:93
+msgid "Audio title:"
+msgstr ""
+
+#: inc/minimaldog-metabox-config.php:94 inc/minimaldog-metabox-config.php:100
+msgid "Use for self-hosted audio"
+msgstr ""
+
+#: inc/minimaldog-metabox-config.php:99
+msgid "Audio artist:"
+msgstr ""
+
+#: inc/minimaldog-metabox-config.php:110
+msgid "Post format: Video"
+msgstr ""
+
+#: inc/minimaldog-metabox-config.php:117
+msgid ""
+"Video full URL: Youtube, Vimeo, Dailymotion, TED, ... See all supported site "
+msgstr ""
+
+#: inc/minimaldog-metabox-config.php:127
+msgid "Post format: Quote"
+msgstr ""
+
+#: inc/minimaldog-metabox-config.php:134
+msgid "Quote content:"
+msgstr ""
+
+#: inc/minimaldog-metabox-config.php:139
+msgid "Quote author:"
+msgstr ""
+
+#: inc/minimaldog-metabox-config.php:149
+msgid "Post format: Link"
+msgstr ""
+
+#: inc/minimaldog-metabox-config.php:156
+msgid "Link URL:"
+msgstr ""
+
+#: inc/minimaldog-metabox-config.php:161
+msgid "Link title:"
+msgstr ""
+
+#: inc/minimaldog-metabox-config.php:166
+msgid "Link description:"
+msgstr ""
+
+#: inc/minimaldog-metabox-config.php:176
+msgid "Post options"
+msgstr ""
+
+#: inc/minimaldog-metabox-config.php:183
+msgid "Post layout"
+msgstr ""
+
+#: inc/minimaldog-metabox-config.php:198 inc/minimaldog-metabox-config.php:323
+#: inc/minimaldog-theme-option.php:609 inc/minimaldog-theme-option.php:924
+#: inc/minimaldog-theme-option.php:1008 inc/minimaldog-theme-option.php:1070
+#: inc/minimaldog-theme-option.php:1153
+msgid "Sidebar position"
+msgstr ""
+
+#: inc/minimaldog-metabox-config.php:208
+msgid "Make this post featured"
+msgstr ""
+
+#: inc/minimaldog-metabox-config.php:210
+msgid ""
+"Check to make this post display in featured block (if Featured Post Source "
+"is set to Marked as Featured)"
+msgstr ""
+
+#: inc/minimaldog-metabox-config.php:214
+msgid "Featured image caption"
+msgstr ""
+
+#: inc/minimaldog-metabox-config.php:219
+msgid "Hide featured image"
+msgstr ""
+
+#: inc/minimaldog-metabox-config.php:221
+msgid "Hide featured image on single page (only on certain layout)"
+msgstr ""
+
+#: inc/minimaldog-metabox-config.php:226
+msgid "Post source"
+msgstr ""
+
+#: inc/minimaldog-metabox-config.php:230
+msgid "Via URL"
+msgstr ""
+
+#: inc/minimaldog-metabox-config.php:235
+msgid "Via Title"
+msgstr ""
+
+#: inc/minimaldog-metabox-config.php:240
+msgid "Source URL"
+msgstr ""
+
+#: inc/minimaldog-metabox-config.php:245
+msgid "Source Title"
+msgstr ""
+
+#: inc/minimaldog-metabox-config.php:251
+msgid "Post review"
+msgstr ""
+
+#: inc/minimaldog-metabox-config.php:255
+msgid "Show review score"
+msgstr ""
+
+#: inc/minimaldog-metabox-config.php:267
+msgid "Criteria name"
+msgstr ""
+
+#: inc/minimaldog-metabox-config.php:272
+msgid "Criteria score"
+msgstr ""
+
+#: inc/minimaldog-metabox-config.php:288
+msgid "Review total score"
+msgstr ""
+
+#: inc/minimaldog-metabox-config.php:290
+msgid "Type in total score to overwrite computed total score"
+msgstr ""
+
+#: inc/minimaldog-metabox-config.php:294
+msgid "Review summary (optional)"
+msgstr ""
+
+#: inc/minimaldog-metabox-config.php:299
+msgid "Review pros (optional)"
+msgstr ""
+
+#: inc/minimaldog-metabox-config.php:305
+msgid "Review cons (optional)"
+msgstr ""
+
+#: inc/minimaldog-metabox-config.php:316
+msgid "Page options"
+msgstr ""
+
+#: inc/minimaldog-post-like.php:251
+msgid "Posts You Like:"
+msgstr ""
+
+#: inc/minimaldog-post-like.php:275
+msgid "You haven't liked anything yet."
+msgstr ""
+
+#: inc/minimaldog-post-like.php:317
+msgid "Most Popular Posts"
+msgstr ""
+
+#: inc/minimaldog-theme-option.php:29 inc/minimaldog-theme-option.php:30
+msgid "Theme Options"
+msgstr ""
+
+#: inc/minimaldog-theme-option.php:131 inc/minimaldog-theme-option.php:159
+msgid "Documentation"
+msgstr ""
+
+#: inc/minimaldog-theme-option.php:137 inc/minimaldog-theme-option.php:159
+msgid "Support"
+msgstr ""
+
+#: inc/minimaldog-theme-option.php:210
+msgid "General"
+msgstr ""
+
+#: inc/minimaldog-theme-option.php:218
+msgid "Site logo"
+msgstr ""
+
+#: inc/minimaldog-theme-option.php:219
+msgid "Upload a logo for your site"
+msgstr ""
+
+#: inc/minimaldog-theme-option.php:220
+msgid ""
+"Any size would fit, but we recommend logo's resolution should be smaller "
+"than 500px x 100px"
+msgstr ""
+
+#: inc/minimaldog-theme-option.php:227
+msgid "Site logo Retina (2x)"
+msgstr ""
+
+#: inc/minimaldog-theme-option.php:228
+msgid "Retina version of your site logo"
+msgstr ""
+
+#: inc/minimaldog-theme-option.php:229 inc/minimaldog-theme-option.php:264
+msgid ""
+"Should have double resolution of the normal logo.This will be used for high "
+"DPI devices."
+msgstr ""
+
+#: inc/minimaldog-theme-option.php:239
+msgid "Logo padding"
+msgstr ""
+
+#: inc/minimaldog-theme-option.php:253
+msgid "Site small logo"
+msgstr ""
+
+#: inc/minimaldog-theme-option.php:254
+msgid "The logo's resolution should be smaller than 180px x 65px"
+msgstr ""
+
+#: inc/minimaldog-theme-option.php:255
+msgid "Upload a small version of your site logo (optional)"
+msgstr ""
+
+#: inc/minimaldog-theme-option.php:262
+msgid "Site small logo Retina (2x)"
+msgstr ""
+
+#: inc/minimaldog-theme-option.php:263
+msgid "Retina version of your site small logo"
+msgstr ""
+
+#: inc/minimaldog-theme-option.php:274
+msgid "Small logo padding"
+msgstr ""
+
+#: inc/minimaldog-theme-option.php:288
+msgid "Site favicon"
+msgstr ""
+
+#: inc/minimaldog-theme-option.php:289
+msgid ""
+"For WordPress 4.2 and earlier only. If you're using WordPress 4.3 and later, "
+"go to Appearance &rarr; Customize &rarr; Site Identity &rarr; Site Icon"
+msgstr ""
+
+#: inc/minimaldog-theme-option.php:295
+msgid "Primary Color"
+msgstr ""
+
+#: inc/minimaldog-theme-option.php:296
+msgid "Pick a primary color for the theme (default: #81c483)."
+msgstr ""
+
+#: inc/minimaldog-theme-option.php:307
+msgid "Copyright text in footer"
+msgstr ""
+
+#: inc/minimaldog-theme-option.php:308
+msgid "HTML Allowed (wp_kses)"
+msgstr ""
+
+#: inc/minimaldog-theme-option.php:317
+msgid "Typography"
+msgstr ""
+
+#: inc/minimaldog-theme-option.php:324
+msgid "Title"
+msgstr ""
+
+#: inc/minimaldog-theme-option.php:346
+msgid "Typography option for title and heading."
+msgstr ""
+
+#: inc/minimaldog-theme-option.php:355
+msgid "Text body"
+msgstr ""
+
+#: inc/minimaldog-theme-option.php:377
+msgid "Typography option for text body."
+msgstr ""
+
+#: inc/minimaldog-theme-option.php:386
+msgid "Meta"
+msgstr ""
+
+#: inc/minimaldog-theme-option.php:408
+msgid "Typography option for meta text, navigation, ..."
+msgstr ""
+
+#: inc/minimaldog-theme-option.php:419
+msgid "Header"
+msgstr ""
+
+#: inc/minimaldog-theme-option.php:427
+msgid "Header Layout"
+msgstr ""
+
+#: inc/minimaldog-theme-option.php:428
+msgid "Select header layout."
+msgstr ""
+
+#: inc/minimaldog-theme-option.php:454
+msgid "Header Background"
+msgstr ""
+
+#: inc/minimaldog-theme-option.php:463
+msgid "Sticky header"
+msgstr ""
+
+#: inc/minimaldog-theme-option.php:469
+msgid "Display login button in site header"
+msgstr ""
+
+#: inc/minimaldog-theme-option.php:477
+msgid "Layout"
+msgstr ""
+
+#: inc/minimaldog-theme-option.php:485
+msgid "Featured block"
+msgstr ""
+
+#: inc/minimaldog-theme-option.php:491
+msgid "Featured block layout"
+msgstr ""
+
+#: inc/minimaldog-theme-option.php:523
+msgid "Featured block background"
+msgstr ""
+
+#: inc/minimaldog-theme-option.php:549
+msgid "Number of articles"
+msgstr ""
+
+#: inc/minimaldog-theme-option.php:568 inc/minimaldog-theme-option.php:845
+msgid "Posts Select"
+msgstr ""
+
+#: inc/minimaldog-theme-option.php:569
+msgid "Drag post item to change its order."
+msgstr ""
+
+#: inc/minimaldog-theme-option.php:580 inc/minimaldog-theme-option.php:857
+msgid "Tags Select"
+msgstr ""
+
+#: inc/minimaldog-theme-option.php:591 inc/minimaldog-theme-option.php:868
+msgid "Categories Select"
+msgstr ""
+
+#: inc/minimaldog-theme-option.php:602
+msgid "Content layout"
+msgstr ""
+
+#: inc/minimaldog-theme-option.php:629
+msgid "Content Layout"
+msgstr ""
+
+#: inc/minimaldog-theme-option.php:630
+msgid "Select content layout."
+msgstr ""
+
+#: inc/minimaldog-theme-option.php:670 inc/minimaldog-theme-option.php:985
+#: inc/minimaldog-theme-option.php:1130 inc/minimaldog-theme-option.php:1213
+msgid "Display 1 big post for each selected number of posts"
+msgstr ""
+
+#: inc/minimaldog-theme-option.php:680
+msgid "Pagination type"
+msgstr ""
+
+#: inc/minimaldog-theme-option.php:692
+msgid "Smart sticky sidebar"
+msgstr ""
+
+#: inc/minimaldog-theme-option.php:693
+msgid "Keep sidebar in view"
+msgstr ""
+
+#: inc/minimaldog-theme-option.php:699
+msgid "More Reading section"
+msgstr ""
+
+#: inc/minimaldog-theme-option.php:700
+msgid "Toggle More reading by category section"
+msgstr ""
+
+#: inc/minimaldog-theme-option.php:709
+msgid "More Reading categories select"
+msgstr ""
+
+#: inc/minimaldog-theme-option.php:710
+msgid "Drag item to change its order. Please select exact 4 categories."
+msgstr ""
+
+#: inc/minimaldog-theme-option.php:716
+msgid "More Reading section background"
+msgstr ""
+
+#: inc/minimaldog-theme-option.php:728
+msgid "Single"
+msgstr ""
+
+#: inc/minimaldog-theme-option.php:735
+msgid "Single layout"
+msgstr ""
+
+#: inc/minimaldog-theme-option.php:771
+msgid "Single sidebar position"
+msgstr ""
+
+#: inc/minimaldog-theme-option.php:788
+msgid "Post navigation"
+msgstr ""
+
+#: inc/minimaldog-theme-option.php:794
+msgid "Author box"
+msgstr ""
+
+#: inc/minimaldog-theme-option.php:800
+msgid "Related articles"
+msgstr ""
+
+#: inc/minimaldog-theme-option.php:806
+msgid "Enable parallax on single billboard cover"
+msgstr ""
+
+#: inc/minimaldog-theme-option.php:812
+msgid "Single featured block"
+msgstr ""
+
+#: inc/minimaldog-theme-option.php:819
+msgid "Enable single featured block"
+msgstr ""
+
+#: inc/minimaldog-theme-option.php:846
+msgid "Drag post item to change its order. Maximum number of post is 4."
+msgstr ""
+
+#: inc/minimaldog-theme-option.php:892
+msgid "Templates"
+msgstr ""
+
+#: inc/minimaldog-theme-option.php:899
+msgid "404 page"
+msgstr ""
+
+#: inc/minimaldog-theme-option.php:905
+msgid "404 text"
+msgstr ""
+
+#: inc/minimaldog-theme-option.php:944
+msgid "Archive Layout"
+msgstr ""
+
+#: inc/minimaldog-theme-option.php:945
+msgid "Content layout for archive and tag page template"
+msgstr ""
+
+#: inc/minimaldog-theme-option.php:1028
+msgid "Author Layout"
+msgstr ""
+
+#: inc/minimaldog-theme-option.php:1029
+msgid "Content layout author page template"
+msgstr ""
+
+#: inc/minimaldog-theme-option.php:1090
+msgid "Category content layout"
+msgstr ""
+
+#: inc/minimaldog-theme-option.php:1146 templates/header-compact.php:59
+#: templates/header-minimal.php:61 templates/header-minimal.php:90
+#: templates/header-standard-center.php:80 templates/header-standard.php:93
+msgid "Search"
+msgstr ""
+
+#: inc/minimaldog-theme-option.php:1173
+msgid "Search content layout"
+msgstr ""
+
+#: inc/minimaldog-theme-option.php:1231
+msgid "Miscellaneous"
+msgstr ""
+
+#: inc/minimaldog-theme-option.php:1238
+msgid "High resolution"
+msgstr ""
+
+#: inc/minimaldog-theme-option.php:1239
+msgid ""
+"Enable compatibility with HiDPI devices like a laptops with Retina display. "
+"Requires WP Retina 2x plugin."
+msgstr ""
+
+#: inc/minimaldog-theme-option.php:1245
+msgid "Smoothscroll"
+msgstr ""
+
+#: inc/minimaldog-theme-option.php:1251
+msgid "Use Font Awesome CDN"
+msgstr ""
+
+#: inc/minimaldog-theme-option.php:1252
+msgid "If disabled, local Font Awesome files will be loaded instead"
+msgstr ""
+
+#: inc/minimaldog-theme-option.php:1258
+msgid "AddThis ID"
+msgstr ""
+
+#: inc/minimaldog-theme-option.php:1259
+msgid ""
+"Your AddThis Profile ID for this site. To get your AddThis Profile ID, go to"
+msgstr ""
+
+#: inc/minimaldog-theme-option.php:1267
+msgid "Social"
+msgstr ""
+
+#: inc/minimaldog-theme-option.php:1268
+msgid "Enter full URLs to your social networks"
+msgstr ""
+
+#: inc/minimaldog-theme-option.php:1275
+msgid "Facebook"
+msgstr ""
+
+#: inc/minimaldog-theme-option.php:1282
+msgid "Twitter"
+msgstr ""
+
+#: inc/minimaldog-theme-option.php:1289
+msgid "Google+"
+msgstr ""
+
+#: inc/minimaldog-theme-option.php:1296
+msgid "Instagram"
+msgstr ""
+
+#: inc/minimaldog-theme-option.php:1303
+msgid "Pinterest"
+msgstr ""
+
+#: inc/minimaldog-theme-option.php:1310
+msgid "Tumblr"
+msgstr ""
+
+#: inc/minimaldog-theme-option.php:1317
+msgid "Linkedin"
+msgstr ""
+
+#: inc/minimaldog-theme-option.php:1324
+msgid "Youtube"
+msgstr ""
+
+#: inc/minimaldog-theme-option.php:1331
+msgid "VK"
+msgstr ""
+
+#: inc/minimaldog-theme-option.php:1339
+msgid "Order of your social networks"
+msgstr ""
+
+#: inc/minimaldog-theme-option.php:1340
+msgid "Reorder and enable/disable your social networks."
+msgstr ""
+
+#: inc/minimaldog-theme-option.php:1369
+msgid "Custom code"
+msgstr ""
+
+#: inc/minimaldog-theme-option.php:1376
+msgid "CSS Code"
+msgstr ""
+
+#: inc/minimaldog-theme-option.php:1377
+msgid "Paste your CSS code here."
+msgstr ""
+
+#: inc/minimaldog-theme-option.php:1385
+msgid "Custom JS/Analytics Code in header"
+msgstr ""
+
+#: inc/minimaldog-theme-option.php:1386
+msgid ""
+"Paste here your JS/Analytics code which will appear in the header of your "
+"site."
+msgstr ""
+
+#: inc/minimaldog-theme-option.php:1387 inc/minimaldog-theme-option.php:1397
+msgid "DO NOT include opening and closing script tags."
+msgstr ""
+
+#: inc/minimaldog-theme-option.php:1395
+msgid "Custom JS/Analytics Code in footer"
+msgstr ""
+
+#: inc/minimaldog-theme-option.php:1396
+msgid ""
+"Paste here your JS/Analytics code which will appear in the footer of your "
+"site."
+msgstr ""
+
+#: inc/minimaldog-utilities.php:83
+#, php-format
+msgid "%s ago"
+msgstr ""
+
+#: inc/minimaldog-utilities.php:192
+#, php-format
+msgid "Continue reading %s"
+msgstr ""
+
+#: inc/tgmplugin-config.php:55
+#: lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:333
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/tgmplugin-config.php:56
+#: lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:334
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/tgmplugin-config.php:57
+#: lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:335
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/tgmplugin-config.php:58
+#: lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:336
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/tgmplugin-config.php:59
+#: lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:338
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmplugin-config.php:60
+#: lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmplugin-config.php:61
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmplugin-config.php:62
+#: lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:368
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmplugin-config.php:63
+#: lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmplugin-config.php:64
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmplugin-config.php:65
+#: lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:353
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmplugin-config.php:66
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmplugin-config.php:67
+#: lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:383
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmplugin-config.php:68
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmplugin-config.php:69
+#: lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:397
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/tgmplugin-config.php:70
+#: lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:399
+#: lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:3025
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/tgmplugin-config.php:71
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: inc/widgets/minimaldog-ad-widget.php:10
+msgid "Ad Widget"
+msgstr ""
+
+#: inc/widgets/minimaldog-ad-widget.php:10
+msgid "Display Ad base on screen size"
+msgstr ""
+
+#: inc/widgets/minimaldog-ad-widget.php:59
+#: inc/widgets/minimaldog-categories-widget.php:84
+#: inc/widgets/minimaldog-popular-widget.php:150
+#: inc/widgets/minimaldog-post-list-widget.php:131
+#: inc/widgets/minimaldog-post-review-list-widget.php:155
+#: inc/widgets/minimaldog-post-slider-widget.php:83
+#: inc/widgets/minimaldog-social-widget.php:33
+msgid "Title: "
+msgstr ""
+
+#: inc/widgets/minimaldog-ad-widget.php:63
+msgid "Ad code for screen width less than 500px:"
+msgstr ""
+
+#: inc/widgets/minimaldog-ad-widget.php:67
+msgid "Ad code for screen width from 501px ~ 800px:"
+msgstr ""
+
+#: inc/widgets/minimaldog-ad-widget.php:71
+msgid "Ad code for screen width from 801px ~ 980px:"
+msgstr ""
+
+#: inc/widgets/minimaldog-ad-widget.php:75
+msgid "Ad code for screen width greater than 980px:"
+msgstr ""
+
+#: inc/widgets/minimaldog-categories-widget.php:10
+msgid "Categories Widget"
+msgstr ""
+
+#: inc/widgets/minimaldog-categories-widget.php:10
+msgid "Display categories"
+msgstr ""
+
+#: inc/widgets/minimaldog-categories-widget.php:52
+msgid "posts"
+msgstr ""
+
+#: inc/widgets/minimaldog-categories-widget.php:75
+msgid "Popular Categories"
+msgstr ""
+
+#: inc/widgets/minimaldog-categories-widget.php:89
+#: inc/widgets/minimaldog-popular-widget.php:155
+#: inc/widgets/minimaldog-post-list-widget.php:136
+#: inc/widgets/minimaldog-post-slider-widget.php:88
+msgid "Category: "
+msgstr ""
+
+#: inc/widgets/minimaldog-categories-widget.php:97
+msgid "Categories order: "
+msgstr ""
+
+#: inc/widgets/minimaldog-categories-widget.php:99
+msgid "Alphabet"
+msgstr ""
+
+#: inc/widgets/minimaldog-categories-widget.php:100
+msgid "Number of posts"
+msgstr ""
+
+#: inc/widgets/minimaldog-popular-widget.php:10
+msgid "Popular Posts Widget"
+msgstr ""
+
+#: inc/widgets/minimaldog-popular-widget.php:10
+#: inc/widgets/minimaldog-post-list-widget.php:10
+msgid "Display the posts list in your sidebar or footer"
+msgstr ""
+
+#: inc/widgets/minimaldog-popular-widget.php:141
+msgid "Popular Posts"
+msgstr ""
+
+#: inc/widgets/minimaldog-popular-widget.php:163
+msgid "Order by: "
+msgstr ""
+
+#: inc/widgets/minimaldog-popular-widget.php:165
+#: inc/widgets/minimaldog-post-slider-widget.php:100
+msgid "Comments"
+msgstr ""
+
+#: inc/widgets/minimaldog-popular-widget.php:166
+#: inc/widgets/minimaldog-post-slider-widget.php:101
+msgid "Likes"
+msgstr ""
+
+#: inc/widgets/minimaldog-popular-widget.php:170
+#: inc/widgets/minimaldog-post-review-list-widget.php:166
+msgid "Time range: "
+msgstr ""
+
+#: inc/widgets/minimaldog-popular-widget.php:172
+#: inc/widgets/minimaldog-post-review-list-widget.php:168
+msgid "All time"
+msgstr ""
+
+#: inc/widgets/minimaldog-popular-widget.php:173
+#: inc/widgets/minimaldog-post-review-list-widget.php:169
+msgid "Year"
+msgstr ""
+
+#: inc/widgets/minimaldog-popular-widget.php:174
+#: inc/widgets/minimaldog-post-review-list-widget.php:170
+msgid "Month"
+msgstr ""
+
+#: inc/widgets/minimaldog-popular-widget.php:175
+#: inc/widgets/minimaldog-post-review-list-widget.php:171
+msgid "Week"
+msgstr ""
+
+#: inc/widgets/minimaldog-popular-widget.php:180
+#: inc/widgets/minimaldog-post-list-widget.php:161
+#: inc/widgets/minimaldog-post-review-list-widget.php:176
+#: inc/widgets/minimaldog-post-slider-widget.php:105
+msgid "Number of posts:"
+msgstr ""
+
+#: inc/widgets/minimaldog-post-list-widget.php:10
+msgid "Post List Widget"
+msgstr ""
+
+#: inc/widgets/minimaldog-post-list-widget.php:122
+#: inc/widgets/minimaldog-post-slider-widget.php:74
+msgid "Recent Posts"
+msgstr ""
+
+#: inc/widgets/minimaldog-post-list-widget.php:144
+#: inc/widgets/minimaldog-post-review-list-widget.php:159
+#: inc/widgets/minimaldog-post-slider-widget.php:96
+msgid "Posts order: "
+msgstr ""
+
+#: inc/widgets/minimaldog-post-list-widget.php:146
+#: inc/widgets/minimaldog-post-review-list-widget.php:161
+#: inc/widgets/minimaldog-post-slider-widget.php:98
+msgid "Latest"
+msgstr ""
+
+#: inc/widgets/minimaldog-post-list-widget.php:147
+#: inc/widgets/minimaldog-post-slider-widget.php:99
+msgid "Random"
+msgstr ""
+
+#: inc/widgets/minimaldog-post-list-widget.php:151
+msgid "List style: "
+msgstr ""
+
+#: inc/widgets/minimaldog-post-list-widget.php:153
+msgid "Card"
+msgstr ""
+
+#: inc/widgets/minimaldog-post-list-widget.php:154
+msgid "Card with list"
+msgstr ""
+
+#: inc/widgets/minimaldog-post-list-widget.php:155
+msgid "Tile"
+msgstr ""
+
+#: inc/widgets/minimaldog-post-list-widget.php:156
+msgid "List with thumb"
+msgstr ""
+
+#: inc/widgets/minimaldog-post-list-widget.php:157
+msgid "List"
+msgstr ""
+
+#: inc/widgets/minimaldog-post-review-list-widget.php:10
+msgid "Review Post List Widget"
+msgstr ""
+
+#: inc/widgets/minimaldog-post-review-list-widget.php:10
+msgid "Display list of review posts in your sidebar or footer"
+msgstr ""
+
+#: inc/widgets/minimaldog-post-review-list-widget.php:146
+msgid "Latest review"
+msgstr ""
+
+#: inc/widgets/minimaldog-post-slider-widget.php:10
+msgid "Post Slider Widget"
+msgstr ""
+
+#: inc/widgets/minimaldog-post-slider-widget.php:10
+msgid "Display the posts slider in your sidebar or footer"
+msgstr ""
+
+#: inc/widgets/minimaldog-social-widget.php:10
+msgid "Social Widget"
+msgstr ""
+
+#: inc/widgets/minimaldog-social-widget.php:10
+msgid "Display social icons"
+msgstr ""
+
+#: inc/widgets/minimaldog-social-widget.php:37
+msgid "Display social network icons (set up in Theme Options &rarr; Social)"
+msgstr ""
+
+#: lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:348
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:358
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:363
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:378
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:388
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:393
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:398
+msgid "Return to the dashboard"
+msgstr ""
+
+#: lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:400
+#: lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:2828
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:402
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:403
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:404
+msgid "Dismiss this notice"
+msgstr ""
+
+#: lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:520
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:521
+msgid "Update Required"
+msgstr ""
+
+#: lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:635
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:824
+#: lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:3434
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:931
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:931
+#: lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:934
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:934
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:1112
+#: lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:2824
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:1877
+#, php-format
+msgctxt "%s = version number"
+msgid "TGMPA v%s"
+msgstr ""
+
+#: lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:2163
+msgid "Required"
+msgstr ""
+
+#: lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:2166
+msgid "Recommended"
+msgstr ""
+
+#: lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:2182
+msgid "WordPress Repository"
+msgstr ""
+
+#: lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:2185
+msgid "External Source"
+msgstr ""
+
+#: lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:2188
+msgid "Pre-Packaged"
+msgstr ""
+
+#: lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:2205
+msgid "Not Installed"
+msgstr ""
+
+#: lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:2209
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:2211
+msgid "Active"
+msgstr ""
+
+#: lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:2217
+msgid "Required Update not Available"
+msgstr ""
+
+#: lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:2220
+msgid "Requires Update"
+msgstr ""
+
+#: lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:2223
+msgid "Update recommended"
+msgstr ""
+
+#: lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:2231
+#, php-format
+msgctxt "%1$s = install status, %2$s = update status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:2276
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:2279
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:2282
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:2285
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:2367
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:2375
+msgid "Installed version:"
+msgstr ""
+
+#: lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:2383
+msgid "Minimum required version:"
+msgstr ""
+
+#: lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:2395
+msgid "Available version:"
+msgstr ""
+
+#: lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:2418
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+
+#: lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:2432
+msgid "Plugin"
+msgstr ""
+
+#: lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:2434
+msgid "Type"
+msgstr ""
+
+#: lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:2438
+msgid "Version"
+msgstr ""
+
+#: lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:2439
+msgid "Status"
+msgstr ""
+
+#: lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:2487
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr ""
+
+#: lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:2491
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Update %2$s"
+msgstr ""
+
+#: lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:2496
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr ""
+
+#: lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:2566
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:2599
+msgid "Install"
+msgstr ""
+
+#: lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:2605
+msgid "Update"
+msgstr ""
+
+#: lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:2608
+msgid "Activate"
+msgstr ""
+
+#: lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:2639
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:2641
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:2677
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:2679
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:2784
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:2810
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:3024
+msgid "Plugin activation failed."
+msgstr ""
+
+#: lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:3358
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:3360
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:3361
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:3365
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:3366
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:3366
+#: lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:3372
+msgid "Show Details"
+msgstr ""
+
+#: lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:3366
+#: lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:3372
+msgid "Hide Details"
+msgstr ""
+
+#: lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:3367
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:3368
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:3371
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:3372
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:3373
+msgid "All installations have been completed."
+msgstr ""
+
+#: lib/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:3374
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: templates/author-box-large.php:74
+msgid "Posts created"
+msgstr ""
+
+#: templates/author-box-large.php:78
+msgid "Posts liked"
+msgstr ""
+
+#: templates/by-category-listing.php:10
+msgid "More reading"
+msgstr ""
+
+#: templates/by-category-listing.php:18
+msgid "View all"
+msgstr ""
+
+#: templates/header-compact.php:29 templates/header-minimal.php:45
+#: templates/header-standard-center.php:55 templates/header-standard.php:68
+msgid "Menu"
+msgstr ""
+
+#: templates/no-result.php:2
+msgid "Sorry, no results were found."
+msgstr ""
+
+#: templates/post-card-paper.php:28 templates/post-classic.php:32
+#: templates/post-cutout-wide.php:32 templates/post-large.php:35
+#: templates/post-list.php:31 templates/post-split.php:21
+#: templates/post-tile-large.php:33 templates/post-tile.php:32
+msgid "Sticky"
+msgstr ""
+
+#: templates/post-navigation-fw.php:25 templates/post-navigation.php:26
+msgid "Previous article"
+msgstr ""
+
+#: templates/post-navigation-fw.php:40 templates/post-navigation.php:41
+msgid "Next article"
+msgstr ""
+
+#: templates/related-posts-alt.php:7 templates/related-posts-fw.php:7
+#: templates/related-posts.php:7
+msgid "You may also like"
+msgstr ""
+
+#: templates/site-social.php:26
+msgid "Follow us"
+msgstr ""
+
+#: templates/user-actions-compact.php:6 templates/user-actions-list.php:7
+#: templates/user-actions.php:7
+msgid "Avatar"
+msgstr ""
+
+#: templates/user-actions-compact.php:10 templates/user-actions-list.php:9
+#: templates/user-actions.php:11
+msgid "Profile"
+msgstr ""
+
+#: templates/user-actions-compact.php:11 templates/user-actions-list.php:10
+#: templates/user-actions.php:12
+msgid "Settings"
+msgstr ""
+
+#: templates/user-actions-compact.php:12 templates/user-actions-list.php:11
+#: templates/user-actions.php:13
+msgid "Logout"
+msgstr ""
+
+#: templates/user-actions-list.php:4 templates/user-actions.php:4
+msgid "Sign in / Join"
+msgstr ""
