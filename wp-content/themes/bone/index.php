@@ -95,10 +95,14 @@
 	</div>
 <?php } ?>
 
+<?php get_template_part('templates/video-cm'); ?>
+
 <?php
 $more_reading = md_bone_get_option('more-reading-switch', '1');
 if ( $more_reading ) {
 	require(locate_template('templates/by-category-listing.php'));
 } ?>
+	
+<?php get_template_part('templates/footer-cm'); ?>
 	
 <?php get_footer();

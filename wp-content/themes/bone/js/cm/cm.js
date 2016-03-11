@@ -1,6 +1,6 @@
 
 (function($) {
-    var menu = $('#menu-primary-menu'),
+    var menu = $('#menu-primary-menu-1'),
         html = '<li><img src="' + cmGetImgUrl('search.png') + '"/></li>',
         $search = $(html)
         ;

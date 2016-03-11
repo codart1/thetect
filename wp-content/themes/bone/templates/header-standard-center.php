@@ -42,7 +42,23 @@
 						<img class="cm-sticky-header-logoImg" src="<?php cm_img('logo-thetect-small-white.png') ?>"></img>
 					</div>
 					<div class="flexbox-item cm-sticky-header-menu">
-						<div>MENU <i class="fa fa-chevron-down"></i></div>
+						<div class="cm-drop-nav-trigger">MENU <i class="fa fa-chevron-down"></i>
+							<div class="cm-drop-nav">
+								<?php
+								if ( has_nav_menu( 'main-menu' ) ) {
+									wp_nav_menu( array(
+										'container' => false,
+										// 'menu_class' => 'menu clearfix',
+										'theme_location' => 'main-menu',
+										'fallback_cb' => false,
+										'depth' => 4,
+									) );
+								} else {
+									echo '<a href="'.admin_url( 'nav-menus.php' ).'" class="menuSettingLink">'.esc_html__('Set up main navigation', 'bone').'&nbsp;&raquo;</a>';
+								}
+								?>
+							</div>
+						</div>
 					</div>
 					<div class="flexbox-item"></div>
 				</div>
